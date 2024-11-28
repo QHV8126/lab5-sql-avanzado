@@ -109,5 +109,5 @@ INSERT INTO LineasPedido (pedidoId, productoId, unidades, precio) VALUES
 (14, 9, 2, 85.99),      -- Pedido 14, Importe total = 201.97
 
 (15, 1, 1, 699.99),     -- Pedido 15, Importe medio (699.99)
-(15, 5, 1, 15.99),      -- Pedido 15, Importe total = 715.98
+(15, 5, 1, 15.99);      -- Pedido 15, Importe total = 715.98
 
